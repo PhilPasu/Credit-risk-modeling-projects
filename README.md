@@ -14,9 +14,6 @@ It is meant as a study and experimentation space to practice and explore differe
 - **Credit Portfolio Value Distribution**  
   Simulation and analysis of portfolio loss/value distributions, including Monte Carlo methods.  
 
-- **CRHW3 Data**  
-  Input datasets and raw data used in the above projects.  
-
 ## Purpose
 
 The goal is to build intuition and hands-on skills in:
